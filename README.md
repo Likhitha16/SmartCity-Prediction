@@ -42,5 +42,5 @@ Please change this README.md as needed.
 #### This function tests if the citynames and rawtext are extracted properly and also if the preprocessing is done correctly or not.
 
 #### These are the important test_functions that we have used in the testfiles.
-#Output Gif url :
+# Output Gif url :
 ### https://github.com/Likhitha16/cs5293sp23-project3/blob/main/ezgif.com-video-to-gif%20(2).gif
